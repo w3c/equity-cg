@@ -1,4 +1,5 @@
 # Resources
+More to come and will also add organization, explanations.
 
 ## Equity Frameworks
 
