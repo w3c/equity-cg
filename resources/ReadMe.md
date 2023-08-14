@@ -1,3 +1,5 @@
 # Resources
 
-We will be added more.
+## Equity Frameworks
+
+Equitable Evaluation Initiative https://www.equitableeval.org/framework
