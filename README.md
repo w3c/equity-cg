@@ -5,6 +5,7 @@ Public Site: [Equity Community Group](https://www.w3.org/community/equity/)
 ## To Do
 
 - Currently working on defining equity for proposed use in the W3C work
+- Evolve the Accessibility Maturity Model for equity
 - Draft guidance & training on equity
 
 ## Draft Working Agreements
