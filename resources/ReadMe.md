@@ -16,4 +16,5 @@ More to come and will also add organization, explanations.
 - https://policylab.chop.edu/blog/new-framework-measuring-racial-equity-policy
 
 - https://www.who.int/europe/publications/i/item/WHO-EURO-2019-3530-43289-60670
-https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework 
+  
+- https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework 
