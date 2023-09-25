@@ -4,9 +4,11 @@ Public Site: [Equity Community Group](https://www.w3.org/community/equity/)
 
 ## To Do
 
-- Currently working on defining equity for proposed use in the W3C work
-- Evolve the Accessibility Maturity Model for equity
-- Draft guidance & training on equity
+- Collect definitions of equity
+- Define equity for proposed use in W3C work
+- Collect equity framework/assessment examples
+- Collect guidance and training on equity
+- Evolve the Accessibility Maturity Model for Equity
 
 ## Draft Working Agreements
 
@@ -20,3 +22,7 @@ Public Site: [Equity Community Group](https://www.w3.org/community/equity/)
 - Definition of consensus for the group (formal CFCs, etc.)
   - for working activities quorum is not necessary
   - for decisions, quorum is four members.
+
+## Table of Contents
+- [Definition Work](https://github.com/w3c/equity-cg/tree/main/definition-work)
+- [Resources - equity framework examples and education materials](https://github.com/w3c/equity-cg/tree/main/resources)
