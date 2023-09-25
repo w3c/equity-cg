@@ -30,6 +30,8 @@ From AGWG Equity sub-group work: https://github.com/w3c/silver/wiki/Equity-Frame
 * “Equality is equal access, while ‘equity’ is equal outcomes.” [Antoinette Carroll, Creative Reaction Lab Founder]
 
 * Merriam-Webster ‘Equity’ and ‘Equality’ - “Sameness or equal distribution are the principal denotations of equality.” This aligns with the working definition of accessibility, that those have access. Equity adds “justice, fairness, and impartiality, the principal denotations of equity.” With equity we aim to restore justice.
+  
+* The consistent and systematic, fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment, such as Black, Latino, and Indigenous and Native American persons, Asian Americans and Pacific Islanders and other persons of colors; members of religious minorities; lesbian, gay, bisexual, transgender, queer, and intersex (LGBTQI+) persons; persons with disabilities; persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality. Definition adapted from Executive Order 13985. Source: https://aspe.hhs.gov/sites/default/files/documents/dd148f52c519a5bcc4fde76b4932f53b/Intensive-Equity-Assessment.pdf
 
 ## Recent Draft Definitions, still evolving
 
