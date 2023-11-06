@@ -18,3 +18,16 @@
 > Equity is a process and an outcome.
 
 > “Equality is equal access, while ‘equity’ is equal outcomes.” [Antoinette Carroll, Creative Reaction Lab Founder](https://crxlab.org/)
+
+## From MITRE's Social Justice Platform work, Equity Considerations
+
+> * Diversity asks, "Who's in the room?"
+> * Equity responds: "Who is trying to get in the room but can't? Whose presence in the room is under constant threat of erasure?"
+> * Inclusion asks, "Has everyone's ideas been heard?"
+> * Justice responds, Whose ideas won't be taken as seriously because they aren't in the majority?"
+> * Diversity asks, "How many more of [pick any minoritized identity] group do we have this year than last?"
+> Equity responds, "What conditions have we created that maintain certain groups as the perpetual majority here?"
+> * Diversity celebrates increases in numbers that still reflect minoritized status on [a college] campus and
+incremental growth.
+> * Equity celebrates reductions in harm, revisions to abusive systems and increases in
+> * MITRE supports for people's life chances as reported by those who have been targeted
