@@ -28,5 +28,5 @@ Ethical Frontiers in Public Management: Seeking New Strategies for Resolving
 Ethical Dilemmas, James S. Bowmen, Editor, Jossey-Bass Publishers, San Francisco,
 1991.]
 
-- (Northwestern University, Kellogg School, Equity Essentials)[https://www.kellogg.northwestern.edu/executive-education/individual-programs/nonprofit-programs/equity-essentials.aspx]
+- [Northwestern University, Kellogg School, Equity Essentials](https://www.kellogg.northwestern.edu/executive-education/individual-programs/nonprofit-programs/equity-essentials.aspx)
 
