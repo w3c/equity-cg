@@ -19,6 +19,7 @@ More to come and will also add organization, explanations.
   
 - https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework 
 
+- (City of Dubuque, Iowa, Equity and Human Rights)[https://www.cityofdubuque.org/215/Equity-Human-Rights]
 ## Other Resources
 
 - Note for use as we work on equity: As equity is rooted in "the spirit and the habit of fairness, justness, and right dealing which would regulate the intercourse of men with men,—the rule doing to all others as we desire them to do to us; or as it is expressed by Justinian, 'to live honestly, to harm nobody, to render every man his due [sic]…" it is therefore the synonym of natural right or justice, in this sense its obligation is ethical rather than jural, and its discussion belongs to the sphere of morals. [Pugh, Darrell L., “The Origins of Ethical Frameworks in Public Administration”, in
