@@ -13,6 +13,9 @@
 
 > "Our commitment to diversity and inclusion is rooted in the belief that multiple points of view, life experiences, ethnicities, cultures, and belief systems are essential to academic excellence." _Source:_ Syracuse University statement on DEI
 
+> As equity is rooted in "the spirit and the habit of fairness, justness, and right dealing which would regulate the intercourse of men with men,—the rule doing to all others as we desire them to do to us; or as it is expressed by Justinian, 'to live honestly, to harm nobody, to render every man his due [sic]…" it is therefore the synonym of natural right or justice, in this sense its obligation is ethical rather than jural, and its discussion belongs to the sphere of morals. Source: Pugh, Darrell L., “The Origins of Ethical Frameworks in Public Administration”, in
+Ethical Frontiers in Public Management: Seeking New Strategies for Resolving Ethical Dilemmas, James S. Bowmen, Editor, Jossey-Bass Publishers, San Francisco, 1991.
+
 ### From [AGWG Equity sub-group work](https://github.com/w3c/silver/wiki/Equity-Framework#definition-description)
 
 > Equity is a process and an outcome.
