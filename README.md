@@ -8,6 +8,7 @@ Public Site: [Equity Community Group](https://www.w3.org/community/equity/)
 - Define equity for proposed use in W3C work
 - Collect [equity framework/assessment, guidance, and training](https://github.com/w3c/equity-cg/tree/main/resources)
 - *In Progress* Evolve the Accessibility Maturity Model for Equity
+- Document equity considerations and practices that deliver equal outcomes
 
 ## Draft Working Agreements
 
