@@ -9,25 +9,25 @@ More to come and will also add organization, explanations.
 
 - [DEIA Guidance from Section508.gov](https://www.section508.gov/manage/deia-guidance/)
 
-- https://www.networkforphl.org/wp-content/uploads/2020/08/Equity-Assessment-Framework-for-Public-Health-Laws-and-Policies.pdf
+- [Network for Public Health Law, Equity Assessment Framework for Public Health Laws and Policies](https://www.networkforphl.org/wp-content/uploads/2020/08/Equity-Assessment-Framework-for-Public-Health-Laws-and-Policies.pdf)
 
-- https://www.commonwealthfund.org/publications/issue-briefs/2022/jan/racial-equity-framework-assessing-health-policy
+- [The Commonwealth Fund: A Racial Equity Framework for Assessing Health Policy)[https://www.commonwealthfund.org/publications/issue-briefs/2022/jan/racial-equity-framework-assessing-health-policy]
 
-- https://policylab.chop.edu/blog/new-framework-measuring-racial-equity-policy
+- [Children's Hospital of Philadelphia, A New Framework for Measuring Racial Equity in Policy](https://policylab.chop.edu/blog/new-framework-measuring-racial-equity-policy)
 
-- https://www.who.int/europe/publications/i/item/WHO-EURO-2019-3530-43289-60670
+- [World Health Organization, Health Equity Policy Tool: a framework to track policies for increasing health equity in the WHO European Region](https://www.who.int/europe/publications/i/item/WHO-EURO-2019-3530-43289-60670)
   
-- https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework 
+- [World Economic Forum, Prioritizing Racial and Ethnic Equity in Business: Towards a Common Framework](https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework)
 
 - [City of Dubuque, Iowa, Equity and Human Rights](https://www.cityofdubuque.org/215/Equity-Human-Rights)
 
-- HRIA (Human Rights Impact Assessment) https://www.humanrights.dk/tools/human-rights-impact-assessment-guidance-toolbox
+- [HRIA (Human Rights Impact Assessment)](https://www.humanrights.dk/tools/human-rights-impact-assessment-guidance-toolbox)
 
-- HUDERIA (for AI in particular) - Human Rights, Democracy, and the Rule of Law Impact Assessment for AI Systems https://www.turing.ac.uk/research/research-projects/human-rights-democracy-and-rule-law-impact-assessment-ai-systems-huderia
+- [HUDERIA (for AI in particular) - Human Rights, Democracy, and the Rule of Law Impact Assessment for AI Systems](https://www.turing.ac.uk/research/research-projects/human-rights-democracy-and-rule-law-impact-assessment-ai-systems-huderia)
 
-- Council of Europe Recommendation CM/Rec(2018)7 of the Committee of Ministers to member States
+- [Council of Europe Recommendation CM/Rec(2018)7 of the Committee of Ministers to member States
 on Guidelines to respect, protect and fulfil the rights of the child in the digital
-environment https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7
+environment](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7)
   
 ## Other Resources
 
