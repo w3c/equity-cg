@@ -20,6 +20,14 @@ More to come and will also add organization, explanations.
 - https://www.weforum.org/whitepapers/prioritizing-racial-ethnic-equity-in-business-towards-a-common-framework 
 
 - [City of Dubuque, Iowa, Equity and Human Rights](https://www.cityofdubuque.org/215/Equity-Human-Rights)
+
+- HRIA (Human Rights Impact Assessment) https://www.humanrights.dk/tools/human-rights-impact-assessment-guidance-toolbox
+
+- HUDERIA (for AI in particular) - Human Rights, Democracy, and the Rule of Law Impact Assessment for AI Systems https://www.turing.ac.uk/research/research-projects/human-rights-democracy-and-rule-law-impact-assessment-ai-systems-huderia
+
+- Council of Europe Recommendation CM/Rec(2018)7 of the Committee of Ministers to member States
+on Guidelines to respect, protect and fulfil the rights of the child in the digital
+environment https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7
   
 ## Other Resources
 
@@ -29,11 +37,3 @@ Ethical Dilemmas, James S. Bowmen, Editor, Jossey-Bass Publishers, San Francisco
 1991.]
 
 - [Northwestern University, Kellogg School, Equity Essentials](https://www.kellogg.northwestern.edu/executive-education/individual-programs/nonprofit-programs/equity-essentials.aspx)
-
-- HRIA (Human Rights Impact Assessment) https://www.humanrights.dk/tools/human-rights-impact-assessment-guidance-toolbox
-
-- HUDERIA (for AI in particular) - Human Rights, Democracy, and the Rule of Law Impact Assessment for AI Systems https://www.turing.ac.uk/research/research-projects/human-rights-democracy-and-rule-law-impact-assessment-ai-systems-huderia
-
-- Council of Europe Recommendation CM/Rec(2018)7 of the Committee of Ministers to member States
-on Guidelines to respect, protect and fulfil the rights of the child in the digital
-environment https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7
