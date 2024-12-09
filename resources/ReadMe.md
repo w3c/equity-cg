@@ -28,6 +28,8 @@ More to come and will also add organization, explanations.
 - [Council of Europe Recommendation CM/Rec(2018)7 of the Committee of Ministers to member States
 on Guidelines to respect, protect and fulfil the rights of the child in the digital
 environment](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7)
+
+- [Lundy Model of Participation] (https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf) 
   
 ## Other Resources
 
