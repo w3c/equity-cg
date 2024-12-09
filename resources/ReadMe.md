@@ -7,6 +7,8 @@ More to come and will also add organization, explanations.
   
 - [Equitable Evaluation Initiative](https://www.equitableeval.org/framework)
 
+- [Human Rights and Standardisation](https://zenodo.org/records/13769418)
+
 - [DEIA Guidance from Section508.gov](https://www.section508.gov/manage/deia-guidance/)
 
 - [Network for Public Health Law, Equity Assessment Framework for Public Health Laws and Policies](https://www.networkforphl.org/wp-content/uploads/2020/08/Equity-Assessment-Framework-for-Public-Health-Laws-and-Policies.pdf)
