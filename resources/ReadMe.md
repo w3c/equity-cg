@@ -33,7 +33,9 @@ More to come and will also add organization, explanations.
 on Guidelines to respect, protect and fulfil the rights of the child in the digital
 environment](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016808b79f7)
 
-- [Lundy Model of Participation](https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf) 
+- [Lundy Model of Participation](https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf)
+
+- [Socially responsive ethical decision-making model by Juntunen et al](https://clinicalevents.org/wp-content/uploads/2024/11/Centering-Equity-Diversity-and-Inclusion-in-.pdf)
   
 ## Other Resources
 
@@ -45,3 +47,5 @@ Ethical Dilemmas, James S. Bowmen, Editor, Jossey-Bass Publishers, San Francisco
 - [Northwestern University, Kellogg School, Equity Essentials](https://www.kellogg.northwestern.edu/executive-education/individual-programs/nonprofit-programs/equity-essentials.aspx)
 
 - [UN 17 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)
+
+- [The EThIC Model of Virtue-Based Allyship Development: A New Approach to Equity and Inclusion in Organizations](https://link.springer.com/article/10.1007/s10551-021-05002-z)
