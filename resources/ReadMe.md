@@ -46,8 +46,8 @@ Ethical Dilemmas, James S. Bowmen, Editor, Jossey-Bass Publishers, San Francisco
 
 - [Northwestern University, Kellogg School, Equity Essentials](https://www.kellogg.northwestern.edu/executive-education/individual-programs/nonprofit-programs/equity-essentials.aspx)
 
-- [Children & AI Design Code] (https://5rightsfoundation.com/wp-content/uploads/2025/03/5rights_AI_CODE_DIGITAL.pdf) 
-
 - [UN 17 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)
 
 - [The EThIC Model of Virtue-Based Allyship Development: A New Approach to Equity and Inclusion in Organizations](https://link.springer.com/article/10.1007/s10551-021-05002-z)
+
+- [Children and AI Design Code](https://5rightsfoundation.com/children-and-ai-code-of-conduct/) 
